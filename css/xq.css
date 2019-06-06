@@ -1,0 +1,35 @@
+.table{
+	width: 80%;
+	height: 187px;
+	margin-left: 10%;
+	top: 10px;
+	background-color: blue;
+}
+.table table{
+	height:187px;
+	margin-left: 0px;
+	width: 80%;
+}
+.choose{
+	height: 80px;
+	width: 80%;
+	margin-left: 10%;
+	background-color: grey;
+	margin-top: 10px;
+	padding: 5px
+}
+.choose span{
+	display: inline-block;
+	width: 100px;
+	height: 80px;
+	border: 0.5px solid black;
+	text-align: center;
+	line-height: 70px;
+	margin-top: -5px;
+}
+.choose input{
+	width: 80px;
+	height: 40px;
+	margin-top: -5px;
+}
+

@@ -1,0 +1,111 @@
+.top{
+	height: 120px;
+	width: 100%;
+	margin-top: 0;
+	margin-left: 0;
+	
+	padding: 1px;
+}
+.img{
+	height: 100%;
+	width: 100%;
+}
+.top_1{
+    width: 168px;
+    height: 103px;
+    background-color: white;
+    margin-left: 436px;
+    margin-top: 16px;
+}
+
+.top_2{
+    width: 308px;
+    height: 96px;
+    background-color: white;
+    margin-top: -94px;
+    margin-left: 1148px;
+}
+/*.top_2 img{
+	height: 100%;
+	width: 100%;
+}*/
+.center{
+	margin-top: 0px;
+	margin-left: 0px;
+	height: 500px;
+	width: 100%;
+
+}
+.denglu{
+    width: 382px;
+    height: 431px;
+    background-color: white;
+    margin-top: -537px;
+    margin-left: 1096px;
+    position: absolute;
+
+}
+.denglu_1{
+	width: 382px;
+	height: 50px;
+	margin-top: 0;
+	margin-left: 0;
+	background-color: white;
+	border: 0.5px solid grey;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.denglu_1 span{
+	margin-left: 55px;
+    line-height: 45px;
+    font-size: 17px;
+    font-weight: bolder;
+}
+#span_1{
+	color:#fa2a83;
+}
+.denglu_2{
+	width: 100%;
+	height: 331px;
+
+	padding-top: 10px;
+}
+.erweima{
+    width: 150px;
+    height: 150px;
+    margin-left: 29%;
+    margin-top: 35px;
+    background-color: white;
+    border: 0.5px solid grey;
+}
+.erweima img{
+	width: 80%;
+	height: 80%;
+	margin-top: 10%;
+	margin-left: 10%; 
+}
+.span_2{
+	font-size: 12px;
+    margin-top: 49px;
+    margin-left: 60px;
+    display: inline-block;
+}
+.span_3{
+	font-size: 12px;
+	color: #fa2a83;
+}
+.bottom span{
+	font-size: 12px;
+	color: grey;
+	margin-left: 30px;
+}
+.bottom{
+	height: 45px;
+	width: 100%;
+
+	padding-top: 5px;
+}
+#span_4{
+	color:black;
+}

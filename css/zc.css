@@ -1,0 +1,57 @@
+.zhuce{
+    position: absolute;
+    margin-top: -550px;
+    margin-left: 1200px;
+    height: 450px;
+    width: 350px;
+    background-color:white;
+}
+.zhuce_1{
+	height: 10%;
+	width: 100%;
+	background-color: white;
+}
+.zhuce_1 span{
+	margin-left: 70px;
+}
+#jiacu{
+	font-weight: bolder;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+#bianse{
+	color: #fa2a83;
+	margin-left: 0;
+}
+.zhuce_2 input{
+	height: 40px;
+	width: 280px;
+	margin-top: 20px;
+	margin-left: 30px;
+	border: 0.5px solid grey;
+}
+#text_1{
+	width: 150px;
+}
+.zhuce_2 button{
+	height: 40px;
+	margin-left: 10px;
+	width: 120px;
+}
+#box{
+	height: 20px;
+	width: 20px;
+	margin-left: 20px;
+}
+.blue{
+	color: blue;
+	font-size: 12px;
+}
+#btn{
+	width: 280px;
+	background-color: #fa2a83;
+	color: white;
+	margin-left: 30px;
+	border: 0px solid red;
+}
